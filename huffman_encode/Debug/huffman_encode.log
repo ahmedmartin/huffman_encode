@@ -1,0 +1,3 @@
+﻿  huffman_encode.cpp
+c:\users\ahmed_martin\source\repos\huffman_encode\huffman_encode\huffman_encode.cpp(177): warning C4018: '<': signed/unsigned mismatch
+  huffman_encode.vcxproj -> C:\Users\Ahmed_Martin\source\repos\huffman_encode\Debug\huffman_encode.exe
